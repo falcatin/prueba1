@@ -9,7 +9,7 @@ p33333dfsgmsdfg
 
 444 
 
-línea nueva22
+línea rama conflicto nueva22
 555
 
 nueva línea2266
@@ -17,3 +17,4 @@ nueva línea2266
 estoy en una rama
 
 en la rama prueba
+
